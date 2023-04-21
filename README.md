@@ -1,4 +1,4 @@
-## This repo contains compute modules for [Limes-x](https://github.com/Hallam_lab/Limes-x)
+## This repo contains compute modules for [Limes-x](https://github.com/hallamlab/Limes-x)
 
 ### Current modules:
 - Logistics
